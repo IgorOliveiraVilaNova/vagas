@@ -1,5 +1,5 @@
-# vagas
-Painel de vagas finanças 360
+# Vagas 360°
+Painel de vagas no Finanças 360°
 
 ## Em aberto
 
