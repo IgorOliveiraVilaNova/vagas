@@ -13,7 +13,7 @@ Estamos procurando alguém proativo, com muita vontade de aprender, repassar con
  - Vale-Refeição
  - Vale-Transporte
  - Plano de Saúde
- - Café ou Cerveja (o que você preferir)
+ - Café ou Choop (o que você preferir)
 
 ### Sobre a empresa
 Somos uma startup com um sistema web inovador para gestão financeira e conciliação de cartões com foco em pequenos e médios varejistas
