@@ -15,7 +15,7 @@ Estamos procurando alguém proativo, com muita vontade de aprender, repassar con
  - Plano de Saúde
  - Café ou Chopp (o que você preferir)
  - No Dress Code
- - Trabalhe em um ambiente único, dentro do [ecossistema de inovação do Bradesco](https://inovabra.com.br/subhomes/habitat/)
+ - Trabalhe em um ambiente único, dentro do [ecossistema de inovação do Bradesco](https://inovabra.com.br/subhomes/habitat/){:target="_blank"}
 
 ### Local de Trabalho:
  - Av. Angélica, 2529 - Bela Vista 
