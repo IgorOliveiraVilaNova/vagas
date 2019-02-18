@@ -1,5 +1,5 @@
-# Vagas 360°
-Painel de vagas no Finanças 360°
+# Vagas F360°
+Somos uma startup com um sistema web inovador para gestão financeira e conciliação de cartões com foco em pequenos e médios varejistas. Venha fazer parte da nossa equipe e nos ajude a transformar o mercado de gestão para esse público ;)
 
 ## Em aberto
 - [[São Paulo - SP] - Analista Programador Pleno](201901/analista-programador-pleno.md)
