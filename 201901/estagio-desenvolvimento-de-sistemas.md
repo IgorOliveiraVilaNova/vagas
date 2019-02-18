@@ -1,4 +1,4 @@
-## [São Paulo - SP] Estágio em Desenvolvimento de Sistemas
+## [São Paulo - SP] Estágio em Desenvolvimento de Sistemas (VAGA ENCERRADA)
 
 Estamos procurando alguém proativo, com muita vontade de aprender e se desenvolver profissionalmente. 
 
