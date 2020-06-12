@@ -33,8 +33,8 @@ Atualmente a F360 já transforma a vida de mais de 4.500 lojas em todo o territ�
 ### Interessado?
 Se você estiver interessado na vaga, faça os seguintes passos:
 
-1. Faça nosso teste de [lógica de programação](https://forms.gle/5zDM8X3PWiwU7kwj7)
-2. Envie seu currículo com pretensão salarial para o e-mail [vagas-prog@f360.com.br](mailto:vagas-prog@f360.com.br)
+1. Faça nosso teste de [lógica de programação](https://forms.gle/5zDM8X3PWiwU7kwj7);
+2. Envie seu currículo com pretensão salarial para o e-mail [vagas-prog@f360.com.br](mailto:vagas-prog@f360.com.br). Coloque o título dessa vaga no assunto do e-mail;
 3. Aguarde o nosso contato =)
 
 ## Saiba mais sobre a F360:
