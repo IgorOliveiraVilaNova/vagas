@@ -8,7 +8,7 @@ Atualmente a F360 já transforma a vida de mais de 4.500 lojas em todo o territ�
 ## Em aberto
 - [[São Paulo - SP] - Estágio em Desenvolvimento de Sistemas](vagas/estagio-desenvolvimento-de-sistemas.md) _(1 vaga)_
 - [[São Paulo - SP] - Analista Programador Júnior](vagas/analista-programador-junior.md) _(2 vagas)_
-- [[São Paulo - SP] - Analista Programador Pleno](vagas/analista-programador-pleno-contabilidade.md) _(1 vaga)_
+- [[São Paulo - SP] - Analista Programador Pleno](vagas/analista-programador-pleno.md) _(1 vaga)_
 - [[São Paulo - SP] - Analista Programador Pleno - Contabilidade](vagas/analista-programador-pleno-contabilidade.md) _(1 vaga)_
 
 ## Saiba mais sobre a F360:
