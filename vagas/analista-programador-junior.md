@@ -37,7 +37,7 @@ Se você estiver interessado na vaga, faça os seguintes passos:
 2. Envie seu currículo com pretensão salarial para o e-mail [vagas-prog@f360.com.br](mailto:vagas-prog@f360.com.br)
 3. Aguarde o nosso contato =)
 
-## Saíba mais sobre a F360:
+## Saiba mais sobre a F360:
 - [https://www.f360.com.br/](https://www.f360.com.br/)
 - [https://blog.financas360.com.br/](https://blog.financas360.com.br/)
 - [Linkedin](https://www.linkedin.com/company/f-360)
