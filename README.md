@@ -17,5 +17,5 @@ Venha fazer parte do nosso time e nos ajude a transformar o mercado de gestão p
 
 ## Saiba mais sobre a F360:
 - [https://www.f360.com.br/](https://www.f360.com.br/)
-- [https://blog.financas360.com.br/](https://blog.f360.com.br/)
+- [https://blog.f360.com.br/](https://blog.f360.com.br/)
 - [Linkedin](https://www.linkedin.com/company/f-360)
