@@ -1,4 +1,4 @@
-## [São Paulo - SP] Analista Programador Pleno
+## [São Paulo - SP] Analista Programador Pleno - F360 Pessoas
 
 Estamos procurando alguém proativo, com muita vontade de aprender, repassar conhecimentos e se desenvolver profissionalmente. A vaga é para inicialmente nos ajudar no desenvolvimento de nossa plataforma de gestão de departamento pessoal, mas eventualmente trabalhar na sustentação / manutenção de nossa plataforma de gestão financeira e gestão de performance comercial por meio de correção de _bugs_ reportados por usuários internos e externos; criação de novas funcionalidades que tragam valor aos clientes; melhorias na infra nas plataformas; etc.
 
