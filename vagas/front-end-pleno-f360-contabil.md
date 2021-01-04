@@ -1,6 +1,6 @@
 ## [São Paulo - SP] Front-end Pleno - F360 Contábil
 
-Estamos procurando alguém proativo, com muita vontade de aprender, repassar conhecimentos e se desenvolver profissionalmente. A vaga é para nos ajudar no desenvolvimento do front-end de nosso módulo **F360 Contábil**.
+Estamos procurando alguém proativo, com muita vontade de aprender, repassar conhecimentos e se desenvolver profissionalmente. A vaga é para nos ajudar no desenvolvimento do _front-end_ de nosso módulo **F360 Contábil** utilizando Vue.js.
 
 ### Características:
 - Conhecimento avançado em HTML, CSS e Javascript
