@@ -4,7 +4,7 @@ Estamos procurando alguém proativo, com muita vontade de aprender, repassar con
 
 ### Características:
 - Conhecimento avançado em HTML, CSS e Javascript
-- Conhecimento de frameworks como Vue.js, React, Angular, Knockout ou outros. Utilizamos no dia-a-dia o Vue.js nas plataformas novas e o Knockout nas plataformas antigas
+- Conhecimento em qualquer um dos frameworks: Vue.js, React, Angular, Knockout ou outros. Utilizamos no dia-a-dia o Vue.js nas plataformas novas e o Knockout nas plataformas antigas
 - Experiência com ferramentas para testes no _front-end_
 - Você precisa ser criativo para nos ajudar a tornar nossas plataformas cada vez mais intuítivas
 - GIT é essencial para a vaga, mas você não precisa ser o mestre dos magos (aliás, será muito bom que você tenha um portifólio público do GitHub, então posta ai pra gente)
