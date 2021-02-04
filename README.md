@@ -8,12 +8,12 @@ Atualmente a F360 já transforma a vida de mais de 5.200 lojas em todo o territ�
 Venha fazer parte do nosso time e nos ajude a transformar o mercado de gestão para esse público ;)
 
 ## Em aberto
-- [[São Paulo - SP] - Analista Programador Júnior - F360 Finanças](vagas/analista-programador-junior-f360-financas.md) _(1 vaga)_
-- [[São Paulo - SP] - Analista Programador Pleno - F360 Contábil](vagas/analista-programador-pleno-f360-contabil.md) _(1 vaga)_
-- [[São Paulo - SP] - Front-end Pleno - F360 Contábil](vagas/front-end-pleno-f360-contabil.md) _(1 vaga)_
+- [[São Paulo - SP] - Analista de Produtos Pleno - F360](vagas/analista-produtos-pleno-f360.md)
+- [[São Paulo - SP] - Analista Programador Júnior - F360 Finanças](vagas/analista-programador-junior-f360-financas.md)
+- [[São Paulo - SP] - Analista Programador Pleno - F360 Contábil](vagas/analista-programador-pleno-f360-contabil.md)
+- [[São Paulo - SP] - Front-end Júnior](vagas/front-end-junior.md)
 
 ## Finalizadas
-- ~[[São Paulo - SP] - Analista de Produtos Pleno - F360](vagas/analista-produtos-pleno-f360.md)~
 - ~[[São Paulo - SP] - Estágio em Desenvolvimento de Sistemas - F360 Finanças](vagas/estagio-desenvolvimento-de-sistemas-f360-financas.md)~
 - ~[[São Paulo - SP] - Analista Programador Pleno - F360 Pessoas](vagas/analista-programador-pleno-f360-pessoas.md)~
 
