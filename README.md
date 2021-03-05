@@ -9,7 +9,7 @@ Venha fazer parte do nosso time e nos ajude a transformar o mercado de gestão p
 
 ## Em aberto
 - [[São Paulo - SP] - Analista de Produtos Pleno](vagas/analista-produtos-pleno-f360.md)
-- [[São Paulo - SP] - Analista Programador Júnior](vagas/analista-programador-junior-f360-financas.md)
+- [[São Paulo - SP] - Analista Programador Júnior](vagas/analista-programador-junior.md)
 - [[São Paulo - SP] - Analista Programador Pleno](vagas/analista-programador-pleno-f360-contabil.md)
 
 ## Saiba mais sobre a F360:
