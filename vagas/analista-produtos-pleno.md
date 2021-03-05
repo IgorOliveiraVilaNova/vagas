@@ -1,4 +1,4 @@
-## [São Paulo - SP] Analista de Produtos Pleno - F360
+## [São Paulo - SP] Analista de Produtos Pleno
 
 Seu objetivo será nos ajudar a organizar as demandas do time de tecnologia em nossos diferentes projetos. Você irá trabalhar em conjunto com todos os profissionais de TI da F360, garantindo a sinergia entre as demandas de produtos e as entregas de TI. 
 
