@@ -8,9 +8,9 @@ Atualmente a F360 já transforma a vida de mais de 5.200 lojas em todo o territ�
 Venha fazer parte do nosso time e nos ajude a transformar o mercado de gestão para esse público ;)
 
 ## Em aberto
-- [[São Paulo - SP] - Analista de Produtos Pleno](vagas/analista-produtos-pleno.md)
-- [[São Paulo - SP] - Analista Programador Júnior](vagas/analista-programador-junior.md)
-- [[São Paulo - SP] - Analista Programador Pleno](vagas/analista-programador-pleno.md)
+- [[São Paulo - SP] - Analista de Produtos / PO - Pleno](vagas/analista-produtos-pleno.md)
+- [[São Paulo - SP] - Analista Programador - Júnior](vagas/analista-programador-junior.md)
+- [[São Paulo - SP] - Analista Programador - Pleno](vagas/analista-programador-pleno.md)
 
 ## Saiba mais sobre a F360:
 - [https://www.f360.com.br/](https://www.f360.com.br/)
