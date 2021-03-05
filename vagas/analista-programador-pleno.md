@@ -1,4 +1,4 @@
-## [São Paulo - SP] Analista Programador C#/ASP.NET Pleno
+## [São Paulo - SP] Analista Programador C#/ASP.NET - Pleno
 
 Estamos procurando alguém proativo, com muita vontade de aprender, repassar conhecimentos e se desenvolver profissionalmente. A vaga é para nos ajudar na criação de ferramentas de ganho operacional para o nosso time de contabilidade. Além disso, você também irá atuar em melhorias em nossa plataforma de gestão financeira com foco nas necessidades dos times dos departamentos fiscal e contábil, e também participar do projeto para criação da plataforma para gestão da contabilidade, o **F360 Contábil**.
 
