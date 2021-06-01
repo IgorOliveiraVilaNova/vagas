@@ -4,8 +4,9 @@ Estamos procurando alguém proativo, com muita vontade de aprender, repassar con
 
 ### Características:
 - Conhecimento em linguagem de programação orientada a objetos (preferencialmente C#)
-- Você precisa ter no mínimo 2 anos de experiência comprovada com desenvolvimento de _software web_ e de robôs de automação
+- Experiência comprovada com desenvolvimento de _software web_
 - Experiência em ferramentas de testes
+- Capacidade de trabalhar com autonomia em busca de entregar o melhor produto para o consumidor final
 - Você precisa saber o básico de HTML, CSS e Javascript, mas não se preocupe que os nossos mestres do _front-end_ vão estar sempre aqui para te apoiar
 - GIT é essencial para a vaga, mas você não precisa ser o mestre dos magos (aliás, será muito bom que você tenha um portifólio público do GitHub, então posta ai pra gente)
 - Ficaremos muito felizes se você conhecer MongoDB ou ter qualquer familiaridade com bancos de dados orientado a documentos. Mas se não souber, a gente te ensina ;)
