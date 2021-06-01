@@ -1,13 +1,15 @@
 ## [São Paulo - SP] Analista Programador C#/ASP.NET - Sênior
 
-Estamos procurando alguém proativo, com muita vontade de aprender, repassar conhecimentos e se desenvolver profissionalmente. A vaga é para nos ajudar na criação de ferramentas de ganho operacional para o nosso time de contabilidade. Além disso, você também irá atuar em melhorias em nossa plataforma de gestão financeira com foco nas necessidades dos times dos departamentos fiscal e contábil, e também participar do projeto para criação da plataforma para gestão da contabilidade, o **F360 Contábil**.
+Estamos procurando um profissional para auxiliar na evolução técnica de nossos produtos e ser um apoio para o nosso time de tecnologia. Para isso, precisamos de alguém que já tenha uma boa experiência em desenvolvimento de softwares e que tenha capacidade de aplicar as melhores práticas/padrões de projetos. Além disso, precisamos de alguém que goste de repassar conhecimento para o time, que tenha prazer em ensinar, programar e ouvir. Essa vaga é para ajudar a F360 na evolução e manutenção de nossos módulos para gestão do _back-office_ do pequeno e médio varejista.
 
 ### Características:
-- Conhecimento em linguagem de programação orientada a objetos (preferencialmente C#)
-- Você precisa ter no mínimo 2 anos de experiência comprovada com desenvolvimento de _software web_ e de robôs de automação
+- Conhecimento avançado em alguma linguagem de programação orientada a objetos (preferencialmente C#)
+- Experiência com desenvolvimento de _software web_
 - Experiência em ferramentas de testes
-- Você precisa saber o básico de HTML, CSS e Javascript, mas não se preocupe que os nossos mestres do _front-end_ vão estar sempre aqui para te apoiar
-- GIT é essencial para a vaga, mas você não precisa ser o mestre dos magos (aliás, será muito bom que você tenha um portifólio público do GitHub, então posta ai pra gente)
+- Experiência com plataformas de _cloud_ (preferencialmente Azure);
+- Capacidade de trabalhar com autonomia em busca de entregar o melhor produto para o consumidor final
+- Você precisa conhecer e gostarar de desenvolvimento _front-end_
+- Conhecimentos de GIT é essencial para a <del>vida</del> vaga (aliás, será muito bom que você tenha um portifólio público do GitHub, então posta ai pra gente)
 - Ficaremos muito felizes se você conhecer MongoDB ou ter qualquer familiaridade com bancos de dados orientado a documentos. Mas se não souber, a gente te ensina ;)
 - Se você já trabalhou no setor do varejo ou contabilidade será considerado um diferencial
 
