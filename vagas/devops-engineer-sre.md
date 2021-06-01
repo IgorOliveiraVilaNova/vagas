@@ -38,13 +38,8 @@
 ### Interessado?
 Se você estiver interessado na vaga, faça os seguintes passos:
 
-1. Faça nosso teste de [lógica de programação](https://forms.gle/5zDM8X3PWiwU7kwj7);
-2. Faça nosso teste prático de [migração de dados](https://forms.gle/XSfpXFndK5By4X7VA);
-3. Envie seu currículo com pretensão salarial para o _e-mail_ [vagas-prog@f360.com.br](mailto:vagas-prog@f360.com.br). Coloque o título dessa vaga no assunto do _e-mail_;
-4. Aguarde o nosso contato =)
-
-**Sobre o teste:**
-Caso você não consiga responder todas as questões, não se sinta acanhado. Quanto maior o nível da vaga que você estiver concorrendo, mais exigentes nós seremos com as respostas. E o inverso também é verdade, portanto não deixe de enviar os testes caso esbarre em alguns desafios no caminho. Seja persistente e isso certamente será recompensador no futuro.
+1. Envie seu currículo com pretensão salarial para o _e-mail_ [vagas-prog@f360.com.br](mailto:vagas-prog@f360.com.br). Coloque o título dessa vaga no assunto do _e-mail_;
+2. Aguarde o nosso contato =)
 
 ### Sobre a empresa
 Somos uma _startup_ com uma plataforma _web_ para gestão de _backoffice_ para pequenos e médios varejista. Nosso produto principal é o **F360 Finanças**, módulo de gestão financeira e conciliação de cartões. Também possuímos um módulo para análise de vendas das lojas e performance de vendedores chamado **F360 Performance**. Atualmente estamos desenvolvendo um módulo para gestão de departamento pessoal, o **F360 Pessoas**, e um módulo para integração com a contabilidade, que é o **F360 Contábil**.
