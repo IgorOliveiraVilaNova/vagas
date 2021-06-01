@@ -1,6 +1,6 @@
 ## [São Paulo - SP] Analista Programador C#/ASP.NET - Pleno
 
-Estamos procurando alguém proativo, com muita vontade de aprender, repassar conhecimentos e se desenvolver profissionalmente. A vaga é para ajudar a F360 na evolução e manutenção de nossos módulos para gestão do back-office do pequeno e médio varejista.
+Estamos procurando alguém proativo, com muita vontade de aprender, repassar conhecimentos e se desenvolver profissionalmente. A vaga é para ajudar a F360 na evolução e manutenção de nossos módulos para gestão do _back-office_ do pequeno e médio varejista.
 
 ### Características:
 - Conhecimento em linguagem de programação orientada a objetos (preferencialmente C#)
