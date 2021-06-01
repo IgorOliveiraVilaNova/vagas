@@ -40,7 +40,7 @@ Somos uma _startup_ com uma plataforma _web_ para gestão de _backoffice_ para p
 
 Em 2019 fomos eleitos pela revista Pequenas Empresas & Grandes Negócios como uma das [100 Startups to Watch](https://revistapegn.globo.com/Startups/noticia/2019/05/100-startups-brasileiras-para-voce-ficar-de-olho.html). A F360 também faz parte do grupo [Hipartners](https://www.hipartners.com.br/), fundo focado em empresas que fazem parte do movimento de transformação digital do varejo no Brasil.
 
-Atualmente a F360 já transforma a vida de mais de 5.200 lojas em todo o território nacional e estamos presentes nas principais redes varejistas como Boticário, Havaianas, Cacau Show, Hering, Chilli Beans, Arezzo, Casas Bauducco e muitas outras franquias. 
+Atualmente a F360 já transforma a vida de mais de 6.000 lojas em todo o território nacional e estamos presentes nas principais redes varejistas como Boticário, Havaianas, Cacau Show, Hering, Chilli Beans, Arezzo, Casas Bauducco e muitas outras franquias. 
 
 Venha fazer parte do nosso time e nos ajude a transformar o mercado de gestão para esse público ;)
 
