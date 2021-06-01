@@ -1,6 +1,6 @@
 ## [São Paulo - SP] Analista Programador C#/ASP.NET - Júnior
 
-Estamos procurando alguém proativo, com muita vontade de aprender, repassar conhecimentos e se desenvolver profissionalmente. A vaga é para nos ajudar na sustentação e manutenção de nossa plataforma de gestão financeira por meio de correção de _bugs_ reportados por usuários internos e externos; criação de testes de unidade; desenvolvimento de integração com plataformas de PDV, operadoras de cartão, bancos e outros.
+Estamos procurando alguém proativo, com muita vontade de aprender, repassar conhecimentos e se desenvolver profissionalmente. A vaga é para ajudar a F360 na evolução e manutenção de nossos módulos para gestão do _back-office_ do pequeno e médio varejista.
 
 ### Características:
 - Conhecimento em linguagem de programação orientada a objetos (preferencialmente C#)
